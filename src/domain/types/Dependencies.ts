@@ -1,0 +1,1 @@
+type ProductStock = Function;
