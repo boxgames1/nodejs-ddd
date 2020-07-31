@@ -1,0 +1,1 @@
+type RentRequestEvents = [RentOrderCreated];
